@@ -6,4 +6,4 @@ Cuewake is a Mac app that brings your notes, checklists, links, and files back w
 
 [Get Cuewake for Mac](https://cuewake.app/)
 
-![Cuewake’s capture panel open over a webpage, with a note ready to save](cuewake.png)
+![Cuewake for Mac website preview](cuewake.png)
